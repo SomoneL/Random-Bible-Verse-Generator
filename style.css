@@ -1,0 +1,63 @@
+
+
+body{
+  background-color:#A6B1F7;
+}
+
+h1{
+  font-family: Geneva;
+  font-size: 50px;
+  color: #941C1C;
+}
+p{
+  font-family:Geneva;
+  font-size: 20px;
+  
+}
+
+.btn{
+  background-color:#97FCD1;
+}
+
+
+.verses{
+  background-color:#F4ECF7;
+  width: auto;
+  margin-right: auto;
+  margin-left:auto;
+  border-color:#941C1C;
+  border-style: dotted solid;
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-bottom:20px;
+  padding: 20px;
+ 
+}
+
+.verse{
+  font-size: 30px;
+  font-style:italic;
+}
+
+.book{
+  font-size: 20px;
+}
+
+.fa {
+  padding-right: 4px;
+}
+
+.contents{
+  background-color:#F7A6B2;
+  width: 50%;
+  margin-right: auto;
+  margin-left:auto;
+  border:2px solid #F4ECF7;
+  position:relative;
+  border-radius: 15px;
+  border-width: 10px;
+  margin-top: 70px;
+  padding: 20px;
+
+  
+}
